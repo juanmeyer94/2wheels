@@ -1,0 +1,443 @@
+[
+  {
+    "question": "¿Qué marca es conocida por su modelo 'GSX-R' en el mundo de las motocicletas deportivas?",
+    "id": 1,
+    "answers": [
+      "Honda",
+      "Kawasaki",
+      "Suzuki",
+      "Yamaha"
+    ],
+    "correctAnswer": "Suzuki"
+  },
+  {
+    "question": "¿Cuál es la cilindrada típica de una motocicleta de tipo 'Naked'?",
+    "id": 2,
+    "answers": [
+      "50cc",
+      "250cc",
+      "600cc",
+      "1000cc"
+    ],
+    "correctAnswer": "600cc"
+  },
+  {
+    "question": "¿Qué famosa motocicleta es apodada 'La Viuda Negra' y es reconocida por su diseño personalizado?",
+    "id": 3,
+    "answers": [
+      "Harley-Davidson Sportster",
+      "Ducati Monster",
+      "Indian Scout",
+      "Triumph Bonneville"
+    ],
+    "correctAnswer": "Harley-Davidson Sportster"
+  },
+  {
+    "question": "¿Cuál de las siguientes características es típica de una motocicleta de tipo 'Chopper'?",
+    "id": 4,
+    "answers": [
+      "Suspensión de largo recorrido",
+      "Manillar alto y alargado",
+      "Carenado aerodinámico",
+      "Posición de conducción agresiva"
+    ],
+    "correctAnswer": "Manillar alto y alargado"
+  },
+  {
+    "question": "¿Cuál de las siguientes marcas es conocida por fabricar motocicletas de aventura 'Adventure Touring'?",
+    "id": 5,
+    "answers": [
+      "KTM",
+      "Suzuki",
+      "Ducati",
+      "Triumph"
+    ],
+    "correctAnswer": "KTM"
+  },
+  {
+    "question": "¿Qué componente esencial en una motocicleta transmite la potencia del motor a la rueda trasera?",
+    "id": 6,
+    "answers": [
+      "Embrague",
+      "Caja de cambios",
+      "Amortiguador trasero",
+      "Cadena o correa de transmisión"
+    ],
+    "correctAnswer": "Cadena o correa de transmisión"
+  },
+  {
+    "question": "¿Qué motocicleta legendaria se llama 'La Máquina del Tiempo' debido a su diseño atemporal?",
+    "id": 7,
+    "answers": [
+      "Honda CB750",
+      "Kawasaki Z1",
+      "Norton Commando",
+      "BMW R80GS"
+    ],
+    "correctAnswer": "Honda CB750"
+  },
+  {
+    "question": "¿Cuál es el término que se utiliza para describir la inclinación de una motocicleta en una curva?",
+    "id": 8,
+    "answers": [
+      "Inclinación lateral",
+      "Giro radial",
+      "Inclinación angular",
+      "Inclinación de curva"
+    ],
+    "correctAnswer": "Inclinación angular"
+  },
+  {
+    "question": "¿Qué sistema de seguridad ayuda a prevenir el bloqueo de las ruedas durante la frenada en una motocicleta?",
+    "id": 9,
+    "answers": [
+      "ABS (Sistema de frenos antibloqueo)",
+      "ASR (Control de tracción)",
+      "EBS (Freno motor)",
+      "ESC (Control de estabilidad)"
+    ],
+    "correctAnswer": "ABS (Sistema de frenos antibloqueo)"
+  },
+  {
+    "question": "¿Cuál de las siguientes marcas es famosa por sus motocicletas de estilo retro y clásico?",
+    "id": 10,
+    "answers": [
+      "Kawasaki",
+      "Yamaha",
+      "Royal Enfield",
+      "Aprilia"
+    ],
+    "correctAnswer": "Royal Enfield"
+  },
+  {
+    "question": "¿Cuál de las siguientes motocicletas es conocida por su uso en competiciones de motocross?",
+    "id": 11,
+    "answers": [
+      "Honda CBR1000RR",
+      "Kawasaki Ninja ZX-6R",
+      "Yamaha YZF-R1",
+      "KTM 450 SX-F"
+    ],
+    "correctAnswer": "KTM 450 SX-F"
+  },
+  {
+    "question": "¿Qué tipo de suspensión es comúnmente utilizada en motocicletas deportivas de alto rendimiento?",
+    "id": 12,
+    "answers": [
+      "Suspensión neumática",
+      "Suspensión de ballesta",
+      "Suspensión de horquilla invertida",
+      "Suspensión de muelles"
+    ],
+    "correctAnswer": "Suspensión de horquilla invertida"
+  },
+  {
+    "question": "¿Cuál de las siguientes marcas es reconocida por su énfasis en la fabricación de motocicletas eléctricas?",
+    "id": 13,
+    "answers": [
+      "Harley-Davidson",
+      "Suzuki",
+      "Zero Motorcycles",
+      "Ducati"
+    ],
+    "correctAnswer": "Zero Motorcycles"
+  },
+  {
+    "question": "¿Qué característica distingue a las motocicletas 'Cruiser' en términos de diseño?",
+    "id": 14,
+    "answers": [
+      "Manillar deportivo",
+      "Asiento individual",
+      "Carrocería carenada",
+      "Posición de conducción erguida"
+    ],
+    "correctAnswer": "Posición de conducción erguida"
+  },
+  {
+    "question": "¿Cuál de las siguientes marcas es famosa por sus motocicletas de alta gama con detalles en oro y lujo extremo?",
+    "id": 15,
+    "answers": [
+      "MV Agusta",
+      "Aprilia",
+      "Bimota",
+      "Ducati"
+    ],
+    "correctAnswer": "Ducati"
+  },
+  {
+    "question": "¿Qué sistema de suspensión ajustable permite a los motociclistas adaptar la altura de la motocicleta según sus preferencias?",
+    "id": 16,
+    "answers": [
+      "Suspensión de aire",
+      "Suspensión de ballesta",
+      "Suspensión de horquilla invertida",
+      "Suspensión de control electrónico"
+    ],
+    "correctAnswer": "Suspensión de aire"
+  },
+  {
+    "question": "¿Cuál de las siguientes marcas es famosa por sus motocicletas de estilo vintage 'Café Racer'?",
+    "id": 17,
+    "answers": [
+      "Triumph",
+      "Kawasaki",
+      "Suzuki",
+      "Yamaha"
+    ],
+    "correctAnswer": "Triumph"
+  },
+  {
+    "question": "¿Qué parte de la motocicleta conecta la rueda delantera con la horquilla y permite el giro?",
+    "id": 18,
+    "answers": [
+      "Amortiguador",
+      "Freno de disco",
+      "Manillar",
+      "Tijas triples"
+    ],
+    "correctAnswer": "Tijas triples"
+  },
+  {
+    "question": "¿Qué término se utiliza para describir el proceso de cambiar a una marcha más baja en una motocicleta?",
+    "id": 19,
+    "answers": [
+      "Aceleración",
+      "Deceleración",
+      "Reducir marcha",
+      "Cambio de aceite"
+    ],
+    "correctAnswer": "Reducir marcha"
+  },
+  {
+    "question": "¿Qué famosa competición de motociclismo se lleva a cabo en una pista de hielo?",
+    "id": 20,
+    "answers": [
+      "MotoGP",
+      "Isle of Man TT",
+      "Superbike World Championship",
+      "Ice Speedway"
+    ],
+    "correctAnswer": "Ice Speedway"
+  },
+  {
+    "question": "¿Qué marca de motocicletas es conocida por su modelo 'Hayabusa' que es una de las más rápidas del mundo?",
+    "id": 21,
+    "answers": [
+      "Suzuki",
+      "Kawasaki",
+      "Honda",
+      "Yamaha"
+    ],
+    "correctAnswer": "Suzuki"
+  },
+  {
+    "question": "¿Cuál es el nombre común para una motocicleta todoterreno diseñada para carreras en terrenos accidentados?",
+    "id": 22,
+    "answers": [
+      "Enduro",
+      "Scooter",
+      "Cruiser",
+      "Touring"
+    ],
+    "correctAnswer": "Enduro"
+  },
+  {
+    "question": "¿Cuál es el modelo más icónico de Harley-Davidson que se conoce como 'Hog'?",
+    "id": 23,
+    "answers": [
+      "Sportster",
+      "Softail",
+      "Fat Boy",
+      "Road King"
+    ],
+    "correctAnswer": "Fat Boy"
+  },
+  {
+    "question": "¿Qué marca de motocicletas es famosa por sus modelos 'Africa Twin' y 'CRF450' en el segmento de aventura?",
+    "id": 24,
+    "answers": [
+      "KTM",
+      "Suzuki",
+      "Ducati",
+      "Honda"
+    ],
+    "correctAnswer": "Honda"
+  },
+  {
+    "question": "¿Qué parte de la motocicleta permite cambiar de marcha y controlar la velocidad del motor?",
+    "id": 25,
+    "answers": [
+      "Embrague",
+      "Acelerador",
+      "Freno",
+      "Caja de cambios"
+    ],
+    "correctAnswer": "Acelerador"
+  },
+  {
+    "question": "¿Cuál es el evento de motocross más prestigioso y reconocido a nivel mundial?",
+    "id": 26,
+    "answers": [
+      "X Games",
+      "Monster Energy Cup",
+      "Motocross des Nations",
+      "Red Bull Straight Rhythm"
+    ],
+    "correctAnswer": "Motocross des Nations"
+  },
+  {
+    "question": "¿Qué famosa marca de motocicletas italiana es conocida por su estilo deportivo y su logo con una serpiente?",
+    "id": 27,
+    "answers": [
+      "Moto Guzzi",
+      "Aprilia",
+      "Benelli",
+      "Ducati"
+    ],
+    "correctAnswer": "Ducati"
+  },
+  {
+    "question": "¿Cuál es el nombre común para una motocicleta diseñada para viajes de larga distancia y comodidad?",
+    "id": 28,
+    "answers": [
+      "Cruiser",
+      "Sportbike",
+      "Touring",
+      "Naked"
+    ],
+    "correctAnswer": "Touring"
+  },
+  {
+    "question": "¿Qué marca de motocicletas es conocida por su modelo 'R1200GS' en el segmento de aventura?",
+    "id": 29,
+    "answers": [
+      "Kawasaki",
+      "Yamaha",
+      "Suzuki",
+      "BMW"
+    ],
+    "correctAnswer": "BMW"
+  },
+  {
+    "question": "¿Cuál de las siguientes marcas es famosa por sus motocicletas deportivas 'Ninja'?",
+    "id": 30,
+    "answers": [
+      "Suzuki",
+      "Kawasaki",
+      "Honda",
+      "Yamaha"
+    ],
+    "correctAnswer": "Kawasaki"
+  },
+  {
+    "question": "¿Qué motocicleta italiana es conocida como 'La Mona Lisa de las motocicletas' debido a su belleza y diseño?",
+    "id": 31,
+    "answers": [
+      "Aprilia Tuono",
+      "Moto Guzzi V7",
+      "Ducati Panigale",
+      "MV Agusta F4"
+    ],
+    "correctAnswer": "MV Agusta F4"
+  },
+  {
+    "question": "¿Cuál de las siguientes marcas es famosa por sus motocicletas eléctricas deportivas 'LiveWire'?",
+    "id": 32,
+    "answers": [
+      "Harley-Davidson",
+      "Zero Motorcycles",
+      "Suzuki",
+      "Ducati"
+    ],
+    "correctAnswer": "Harley-Davidson"
+  },
+  {
+    "question": "¿Qué marca de motocicletas japonesa es conocida por su modelo 'Vulcan' en la categoría de crucero?",
+    "id": 33,
+    "answers": [
+      "Kawasaki",
+      "Suzuki",
+      "Honda",
+      "Yamaha"
+    ],
+    "correctAnswer": "Kawasaki"
+  },
+  {
+    "question": "¿Cuál es el nombre común para una motocicleta con una carrocería completa que protege al conductor del viento y la lluvia?",
+    "id": 34,
+    "answers": [
+      "Naked",
+      "Scooter",
+      "Sportbike",
+      "Carenada"
+    ],
+    "correctAnswer": "Carenada"
+  },
+  {
+    "question": "¿Qué marca de motocicletas es conocida por su modelo 'FZ-07' en la categoría de motocicletas naked?",
+    "id": 35,
+    "answers": [
+      "Yamaha",
+      "Honda",
+      "Kawasaki",
+      "Suzuki"
+    ],
+    "correctAnswer": "Yamaha"
+  },
+  {
+    "question": "¿Cuál es la motocicleta más vendida de todos los tiempos?",
+    "id": 36,
+    "answers": [
+      "Honda CBR1000RR",
+      "Harley-Davidson Sportster",
+      "Yamaha YZF-R1",
+      "Honda Super Cub"
+    ],
+    "correctAnswer": "Honda Super Cub"
+  },
+  {
+    "question": "¿Cuál es el término que se utiliza para describir la acción de reducir la velocidad de una motocicleta antes de entrar en una curva?",
+    "id": 37,
+    "answers": [
+      "Acelerar",
+      "Frenar",
+      "Inclinar",
+      "Decelerar"
+    ],
+    "correctAnswer": "Decelerar"
+  },
+  {
+    "question": "¿Qué marca de motocicletas es famosa por su modelo 'Diavel' en la categoría de motocicletas power cruiser?",
+    "id": 38,
+    "answers": [
+      "Ducati",
+      "Aprilia",
+      "Harley-Davidson",
+      "Suzuki"
+    ],
+    "correctAnswer": "Ducati"
+  },
+  {
+    "question": "¿Cuál es el término que se utiliza para describir la parte de la motocicleta que almacena el combustible?",
+    "id": 39,
+    "answers": [
+      "Motor",
+      "Chasis",
+      "Tanque",
+      "Freno"
+    ],
+    "correctAnswer": "Tanque"
+  },
+  {
+    "question": "¿Cuál de las siguientes marcas es conocida por fabricar motocicletas de tres ruedas llamadas 'Spyder'?",
+    "id": 40,
+    "answers": [
+      "Suzuki",
+      "Can-Am",
+      "Triumph",
+      "Yamaha"
+    ],
+    "correctAnswer": "Can-Am"
+  }
+]
+
